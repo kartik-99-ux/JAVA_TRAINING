@@ -1,5 +1,5 @@
 import java.util.*;
-public class abc {
+public class abcd {
     public static void main(String arg[])
     { Scanner obj=new Scanner(System.in);
         String s=new String();
